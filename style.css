@@ -1,8 +1,14 @@
-* {
-  width: 0;
-  height: 0;
-}
-
 body {
   width: 100%;
+}
+
+.navbg {
+  background-color: #3e3c3c;
+}
+ul li a{
+  text-decoration: none;
+
+}
+.nav-link{
+  text-decoration: none;
 }
